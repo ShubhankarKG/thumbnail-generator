@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./thumbnail_generator/thumbnail_generator"]
+}
